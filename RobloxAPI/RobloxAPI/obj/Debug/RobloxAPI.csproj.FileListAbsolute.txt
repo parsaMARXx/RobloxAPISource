@@ -1,0 +1,12 @@
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\bin\Debug\RobloxAPI.dll.config
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\bin\Debug\RobloxAPI.dll
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\bin\Debug\RobloxAPI.pdb
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.csproj.AssemblyReference.cache
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.Properties.Resources.resources
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.csproj.GenerateResource.cache
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.csproj.CoreCompileInputs.cache
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.dll
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.pdb
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MacBook Pro\source\repos\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.csproj.Up2Date
